@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '5785'
     url: http://www.gutenberg.org/2009/agents/5785
 description: '"A play in one act for eleven girls."'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15007#The-Belles-of-CanterburyA-Chaucer-Tale-Out-of-School
 gutenberg_issued: '2005-02-09'
 gutenberg_type: Text
 identifiers:
